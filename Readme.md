@@ -5,7 +5,7 @@
 1)  Exit Project before installation.
 
 2)  Extract the ProjectAddin.zip package, which contains setup.exe,
-    template files, and other supporting files. Double-click setup.exe
+    template files, readme.pdf, and other supporting files. Double-click setup.exe
     to start the installation.
 
 3)  An internet connection is required during installation, as the
