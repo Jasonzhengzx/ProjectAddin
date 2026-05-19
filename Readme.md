@@ -2,7 +2,7 @@
 
 **1. Add-in Installation**
 
-1)  Exit Project before installation.
+1)  Exit MS Project before installation.
 
 2)  Extract the ProjectAddin.zip package, which contains setup.exe,
     template files, readme.pdf, and other supporting files. Double-click setup.exe
